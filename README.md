@@ -42,11 +42,12 @@ Packages: opencv-contrib-python, numpy, Pillow
    * Face photos: `images-log/`
    * Attendance file: `attendance.csv`
 
-Created By:
-Mohamed Babiker Osman
-Wadbabiker59@gmail.com
-https://github.com/mohamedbabekir
-https://www.linkedin.com/in/wadbabekir
+**Created By:**  
+Mohamed Babiker Osman  
+[Wadbabiker59@gmail.com](mailto:Wadbabiker59@gmail.com)  
+GitHub: [github.com/mohamedbabekir](https://github.com/mohamedbabekir)  
+LinkedIn: [linkedin.com/in/wadbabekir](https://www.linkedin.com/in/wadbabekir)
+
 
 
 
