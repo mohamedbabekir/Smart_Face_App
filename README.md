@@ -19,4 +19,26 @@ Packages: opencv-contrib-python, numpy, Pillow
 7. Then use **Login** → select **Department** and **Subject** → **Take Attendance**.
 8. Results: face images in `images-log/`, attendance in `attendance.csv`.
 
+**How to use (simple)**
+
+1. **Open the app** (`python app.py`).
+2. **Sign Up / Register Face**
+
+   * Enter **Name** and **Student ID**, choose **Department**.
+   * Click **Register Face** and look at the camera to save 10–20 photos.
+3. **Login**
+
+   * Enter **Name** and **Student ID**, choose **Department**.
+   * Click **Go**. If your face matches, you’ll proceed.
+4. **Take Attendance**
+
+   * Pick the **Subject** and click **Take Attendance**.
+   * Wait for the face check to finish; you’ll get a success message.
+5. **Admin (optional)**
+
+   * Open **Admin** to see the attendance table (test login: `admin / 123`).
+6. **Where it saves**
+
+   * Face photos: `images-log/`
+   * Attendance file: `attendance.csv`
 
