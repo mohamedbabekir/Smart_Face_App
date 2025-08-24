@@ -43,6 +43,10 @@ Packages: opencv-contrib-python, numpy, Pillow
    * Attendance file: `attendance.csv`
 
 Created By:
-**Mohamed Babiker Osman**
-**Wadbabiker59@gmail.com**
+Mohamed Babiker Osman
+Wadbabiker59@gmail.com
+https://github.com/mohamedbabekir
+https://www.linkedin.com/in/wadbabekir
+
+
 
